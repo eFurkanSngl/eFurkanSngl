@@ -1,10 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Enes Furkan Şengül</h1>
-<h3 align="center">A passionate Junior Game Unity developer from Turkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efurkansngl&label=Profile%20views&color=0e75b6&style=flat" alt="efurkansngl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efurkansngl" alt="efurkansngl" /></a> </p>
 
 - 🌱 I’m currently learning **advanced C# scripting for Unity and Blender**
 
