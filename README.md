@@ -1,28 +1,64 @@
+# Hi, I'm Furkan! 👋
 
-<h1 align="center">Hi 👋, I'm Enes Furkan Şengül</h1>
+I'm a Junior Unity Game Developer driven by a passion for creating engaging and memorable games.  
+I love turning creative ideas into interactive experiences with a strong focus on clean architecture, performance, and collaboration.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=efurkansngl&label=Profile%20views&color=0e75b6&style=flat" alt="efurkansngl" /> </p>
+---
 
+## 🚀 Skills & Tools
 
-- 🌱 I’m currently learning **advanced C# scripting for Unity and Blender**
+**Languages:**  
+C#, Python
 
-- 💬 Ask me about **game development or Unity tips**
+**Game Engine:**  
+Unity (Intermediate–Advanced)  
+- Animation, UI System, Events & UnityAction, Particle/VFX, Audio System  
+- Object-Oriented Programming  
+- Modular Game Architecture  
+- Performance Optimization
 
-- 📫 How to reach me **efrknsngl@gmail.com**
+**Tools:**  
+- Git, Visual Studio, VS Code  
+- Zenject, DoTween, Odin Inspector
 
-- ⚡ Fun fact **I once recreated an entire TicTacToe game in Unity for fun**
+**Core Areas:**  
+- 2D/3D Game Development  
+- Level Design  
+- Game Mechanics  
+- Clean, event-driven, and scalable code
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/efurkansengull/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/efurkansengull/" height="30" width="40" /></a>
-<a href="https://discord.gg/frkn6985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="frkn6985" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🎮 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=efurkansngl&show_icons=true&locale=en&layout=compact" alt="efurkansngl" /></p>
+- [Flip It](https://github.com/eFurkanSngl/FlipIt-): Addictive memory puzzle—flip and match the cards!
+  
+- [Fruit Match3](https://github.com/eFurkanSngl/Fruit-Match-Three): Classic match-3 with juicy effects and combos.
+  
+- [Dino Run](https://github.com/eFurkanSngl/Dino-Run-Game): Endless runner featuring cute dinosaurs and fun obstacles.
+  
+- [Scene Switcher](https://github.com/eFurkanSngl/SceneSwitcher): Editor tool for fast, hassle-free scene management.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efurkansngl&show_icons=true&locale=en" alt="efurkansngl" /></p>
+*(Check out my GitHub for all projects!)*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efurkansngl&" alt="efurkansngl" /></p>
+---
+
+## 🕹️ Development Mindset
+
+I believe in building games that are **optimized, scalable, and fun**.  
+My focus is always on writing clean, modular, and reusable code—adhering to OOP and best practices.  
+Teamwork, creative problem-solving, and constant self-improvement are at the heart of my approach.
+
+---
+
+## 🌐 Connect with Me
+
+- LinkedIn(https://www.linkedin.com/in/efurkansengull/)
+- 📧 efrknsngl@gmail.com
+- Discord:frkn6985
+
+---
+
+> “Creating worlds, one line of code at a time.”
+
+Thanks for stopping by! 🚀
